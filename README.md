@@ -1,7 +1,8 @@
 # Database-CPU-HeatSheet
 
-- Turkish:
+Turkish:
 ===========
+
 Veri tabanı Cpu Isı Çizelgesi
 
 - sicaklik_cpu.py  Desktop ta bulunacak
