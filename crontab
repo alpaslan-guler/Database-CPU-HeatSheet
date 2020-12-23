@@ -1,0 +1,5 @@
+# /etc/crontab dosyası içine 10 dk bir databaseye veri kayıt ettiren satır eklenir
+# A line that records data to a database for 10 minutes is added into the /etc/crontab file.
+
+
+*/10 *  * * *   root    sudo python /home/pi/Desktop/Cpu_sicaklik_Db/sicaklik_cpu.py
